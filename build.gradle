@@ -13,7 +13,7 @@ allprojects {
 }
 
 dependencies {
-  implementation 'org.codehaus.groovy:groovy-all:3.0.8'
+  implementation 'org.apache.groovy:groovy:4.0.0-alpha-3'
 
   implementation(project(":subproject-with-extensions"))
 

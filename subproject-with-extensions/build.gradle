@@ -4,7 +4,7 @@ plugins {
 }
 
 dependencies {
-  implementation 'org.codehaus.groovy:groovy-all:3.0.5'
+  implementation 'org.apache.groovy:groovy:4.0.0-alpha-3'
 }
 
 publishing {
