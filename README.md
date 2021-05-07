@@ -1,0 +1,1 @@
+Demonstrates a possible Groovy 3.0.8 bug

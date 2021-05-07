@@ -1,0 +1,3 @@
+rootProject.name = 'test-groovy-static-extensions'
+include("subproject-with-extensions")
+
